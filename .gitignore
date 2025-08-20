@@ -16,4 +16,4 @@ yarn-error.log*
 Thumbs.db
 
 # Environment files (if you add later for API keys)
-.env
+config.bat
