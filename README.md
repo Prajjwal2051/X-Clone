@@ -1,34 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1.0">
-  <title>X (Twitter) Clone – README</title>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
-  <style>
-    body { font-family: 'Inter', sans-serif; background: #0a0a0a; color:#f9fafb; margin: 0; padding: 0; }
-    main { max-width: 700px; padding: 32px 24px; margin: 0 auto; }
-    h1 { font-size: 2.25rem; color: #1DA1F2; font-weight: 700; letter-spacing: -1.5px; }
-    h2 { color: #f1f5f9; font-size: 1.3rem; margin-top: 2rem;}
-    h3 { color: #bae6fd; font-size: 1.1rem; margin-top: 1.5rem;}
-    p, li { color: #e5e7eb; line-height: 1.7; }
-    kbd { background: #18181b; color: #6ee7b7; border-radius:5px; padding: 2px 6px; font-size:0.95em;}
-    code { background:#18181b; color:#bef264; padding:2px 4px; border-radius: 4px;}
-    .feature-list, .tree { margin: 1em 0 1.75em 0; padding-left:1.0em;}
-    .feature-list li, .tree li { margin-bottom: .4em;}
-    .tree {font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace;}
-    .badge { padding:2px 8px; background:#1da1f2; color:white; border-radius:4px; font-size:0.93em;}
-    .note { color:#facc15; margin-left:0.4em;}
-    .author { margin-top:2.8em; color:#64748b; font-size: 1em;}
-    a { color:#60a5fa; text-decoration:none;}
-    a:hover {text-decoration:underline;}
-    .brand { color:#1DA1F2; }
-    pre { background:#0a0a0a; color:#38bdf8; padding:12px 10px; border-radius:7px; font-size:1em;}
-    hr  { border:1px solid #27272a; margin:32px 0 24px 0;}
-  </style>
-</head>
-<body>
-<main>
+
   <h1><span class="brand">X</span> (Twitter) Clone <span class="badge">UI</span></h1>
   <p>
     A visually-accurate, modern X (Twitter) clone built with <b>Tailwind CSS</b> and <b>Vite</b>.  
@@ -100,6 +70,3 @@
     Built by <a href="https://github.com/Prajjwal2051">@Prajjwal2051</a>.<br>
     <span class="note">This UI clone is for demonstration and educational purposes only.</span>
   </div>
-</main>
-</body>
-</html>
